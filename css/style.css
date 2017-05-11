@@ -26,10 +26,10 @@ nav>ul {
 
 nav>ul>li {
     display: inline;
-    border: 2px solid #00ff00;
+    border: 2px solid #000;
     margin: 0px 10px;
     padding: 10px;
-    border-radius: 15px 15px 0px 0px
+    border-radius: 15px 15px 15px 15px
 }
 
 nav>ul>li>a {
