@@ -11,6 +11,9 @@
     margin-top: 0px;
     text-align: center;
     color: #fff;
+    background-color: #5e0080;
+    border: 3px solid #a800e6;
+    width: 100%;
 }
 
 /*Columns begin here*/
